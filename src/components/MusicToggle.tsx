@@ -8,17 +8,13 @@ export default function MusicToggle() {
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
   useEffect(() => {
-    // Create audio element on mount
-    audioRef.current = new Audio('/soundtrack/soundtrack.mp3');
-    audioRef.current.loop = true;
+    // Create audio element only once (singleton pattern)
+    if (!audioRef.current) {
+      audioRef.current = new Audio('/soundtrack/soundtrack.mp3');
+      audioRef.current.loop = true;
+    }
 
-    return () => {
-      // Cleanup on unmount
-      if (audioRef.current) {
-        audioRef.current.pause();
-        audioRef.current = null;
-      }
-    };
+    // No cleanup on unmount to keep music playing across page navigations
   }, []);
 
   const togglePlay = () => {

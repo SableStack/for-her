@@ -4,6 +4,7 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import ThemeToggle from "@/components/ThemeToggle";
+import MusicToggle from "@/components/MusicToggle";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -37,6 +38,7 @@ export default function RootLayout({
         </main>
         <Footer />
         <ThemeToggle />
+        <MusicToggle />
       </body>
     </html>
   );
