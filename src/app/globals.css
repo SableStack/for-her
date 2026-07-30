@@ -1,0 +1,122 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-cream: #F8F2FF;
+  --color-beige: #EDE0F5;
+  --color-rose: #D4B8E8;
+  --color-rose-light: #EDE0F7;
+  --color-taupe: #7B6B93;
+  --color-ink: #2D1B4E;
+  --color-ink-light: #4A3F6B;
+
+  --font-serif: 'Georgia', 'Times New Roman', serif;
+  --font-cursive: 'Brush Script MT', 'Comic Sans MS', cursive;
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+:root {
+  --background: #F8F2FF;
+  --foreground: #2D1B4E;
+}
+
+.dark {
+  --background: #0a0a1a;
+  --foreground: #e0e0ff;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-rose);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-taupe);
+}
+
+/* Fluid text utilities */
+.text-balance {
+  text-wrap: balance;
+}
+
+/* Flip card perspective */
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+.backface-hidden {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+/* Masonry */
+.masonry-grid {
+  columns: 1;
+  column-gap: 1.5rem;
+}
+
+@media (min-width: 640px) {
+  .masonry-grid {
+    columns: 2;
+  }
+}
+
+@media (min-width: 1024px) {
+  .masonry-grid {
+    columns: 3;
+  }
+}
+
+.masonry-item {
+  break-inside: avoid;
+  margin-bottom: 1.5rem;
+}
+
+/* Envelope animation */
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-float-delayed {
+  animation: float 3s ease-in-out 1.5s infinite;
+}
+
+/* Typewriter cursor */
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+.cursor-blink::after {
+  content: '|';
+  animation: blink 1s step-end infinite;
+  color: var(--color-rose);
+}
+
+/* Photo zoom overlay */
+.photo-overlay {
+  background: rgba(45, 27, 78, 0.6);
+  backdrop-filter: blur(4px);
+}
