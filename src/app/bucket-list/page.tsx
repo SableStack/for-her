@@ -5,23 +5,23 @@ import { motion } from 'framer-motion';
 import { bucketList as initialItems, type BucketListItem } from '@/data/bucketList';
 
 export default function BucketListPage() {
-  const [items, setItems] = useState<BucketListItem[]>(initialItems);
-
-  // Clear old localStorage data if it doesn't match current structure
-  useEffect(() => {
-    const saved = localStorage.getItem('bucketList');
-    if (saved) {
-      try {
-        const parsed = JSON.parse(saved);
-        // If the saved data has different number of items, clear it
-        if (!Array.isArray(parsed) || parsed.length !== initialItems.length) {
-          localStorage.setItem('bucketList', JSON.stringify(initialItems));
+  // Initialize state from localStorage to persist crossed-off items
+  const [items, setItems] = useState<BucketListItem[]>(() => {
+    if (typeof window !== 'undefined') {
+      const saved = localStorage.getItem('bucketList');
+      if (saved) {
+        try {
+          const parsed = JSON.parse(saved);
+          if (Array.isArray(parsed) && parsed.length === initialItems.length) {
+            return parsed;
+          }
+        } catch {
+          // Invalid data, will fall through to initialItems
         }
-      } catch {
-        localStorage.setItem('bucketList', JSON.stringify(initialItems));
       }
     }
-  }, []);
+    return initialItems;
+  });
 
   // Save to localStorage on change
   useEffect(() => {
