@@ -31,39 +31,39 @@ export default function VersionOfYouPage() {
             <p className="text-3xl font-serif text-ink">Dear Weintombara,</p>
 
             <p>
-              I've been thinking of the best way to show you how much you mean to me and I couldn't think of anything, not just cause I'm broke LOL, but because even if I gave you a planet, that's all it would be, me giving you a planet. If I could place you in my body and have you look at yourself through my eyes that would be Ideal, then you'd be able to feel and see you the way I do. But I can't do that, thought about writing a song but writing a good song is pretty difficult, so..... I'll just try explaining with words how I see you.
+              I've been thinking of the best way to show you how much you mean to me and I couldn't think of anything, not just cause I'm broke LOL, but because even if I gave you a planet, that's all it would be — me giving you a planet. If I could place you in my body and have you look at yourself through my eyes that would be ideal, then you'd be able to feel and see you the way I do. But I can't do that, thought about writing a song but writing a good song is pretty difficult, so... I'll just try explaining with words how I see you.
             </p>
 
             <p>
-              Weintombara is a girl, she's a girl who has a smile that makes me want to melt, saying she has one of the cutest smiles sounds like an understatement, think of a kitten playing or a baby laughing, the feeling of joy you get when seeing that, a feeling of "the world isn't so bad", yeahhh her smile has the same effect. Her laugh is so precious as well, she has several, and each of them make me smile, even the fake one.
+              Weintombara is a girl. She's a girl who has a smile that makes me want to melt. Saying she has one of the cutest smiles sounds like an understatement — think of a kitten playing or a baby laughing, the feeling of joy you get when seeing that, a feeling of &ldquo;the world isn't so bad&rdquo;. Yeahhh, her smile has the same effect. Her laugh is so precious as well, she has several, and each of them make me smile, even the fake one.
             </p>
 
             <p>
-              She cares deeply about her friends and family, shes willing to go out of her way for them and has done so for me multiple times. Sometimes I just wish I could kidnap her. that's a feeling I get often when with her. shes just the kind of person you want to gate keep.
+              She cares deeply about her friends and family. She's willing to go out of her way for them and has done so for me multiple times. Sometimes I just wish I could kidnap her. That's a feeling I get often when with her. She's just the kind of person you want to gatekeep.
             </p>
 
             <p>
-              She's not perfect, and she knows it, shes got battles she fights and she also cries. she's human. she has so much potential. She has secrets too, hidden dark sides and so on. shes a young human female with lots of potential and growth.
+              She's not perfect, and she knows it. She's got battles she fights and she also cries. She's human. She has so much potential. She has secrets too, hidden dark sides, and so on. She's a young human female with lots of potential and growth.
             </p>
 
             <p>
-              This is hard, I've said so much in my head, and rephrased so much already, so many feelings I can't convey. Thinking about the feeling you get from winning a lottery and try describing that feeling and giving it human traits. something hard like that. You wouldn't simply call it excitment or disbelief, there'd be so much more you want to do to express the emotion.
+              This is hard. I've said so much in my head, and rephrased so much already, so many feelings I can't convey. Thinking about the feeling you get from winning a lottery and trying to describe that feeling and give it human traits — something hard like that. You wouldn't simply call it excitement or disbelief; there'd be so much more you want to do to express the emotion.
             </p>
 
             <p>
-              She's just so... good I don't know how to say the rest properly or in an arranged way so I'll just pour it all out. She's fun in a " I want her around as often as possible because its nice to be with her" way, almost like a breath of fresh air laced with the scent of pop corn, but in a subtle way that makes you crave pop corn, but doesn't overwhelm you.
+              She's just so... good. I don't know how to say the rest properly or in an arranged way, so I'll just pour it all out. She's fun in a &ldquo;I want her around as often as possible because it's nice to be with her&rdquo; way, almost like a breath of fresh air laced with the scent of popcorn, but in a subtle way that makes you crave popcorn, but doesn't overwhelm you.
             </p>
 
             <p>
-              Physically, I find her so attractive that I sometimes hope its just me, cause I don't want to justify harassment but.... I can definitely see why. She's so attractive, describing how attractive she is is like choosing between black and white, you just can't pick one or the other, she can look so cute and pretty in a sundress, looking intimidating in a suit and blow your mind with an outfit thats more revealing.
+              Physically, I find her so attractive that I sometimes hope it's just me, cause I don't want to justify harassment, but... I can definitely see why. She's so attractive. Describing how attractive she is is like choosing between black and white — you just can't pick one or the other. She can look so cute and pretty in a sundress, looking intimidating in a suit, and blow your mind with an outfit that's more revealing.
             </p>
 
             <p>
-              Theres so much more I could say but I've been typing for a while now and I'm I think I've done what I can with words.
+              There's so much more I could say, but I've been typing for a while now and I think I've done what I can with words.
             </p>
 
             <p>
-              So.... that's a somewhat accurate description of 37% of my emotions and how I see you. the version of you I see is so amazing, I'm proud/Glad and all the other things just knowing you.
+              So... that's a somewhat accurate description of 37% of my emotions and how I see you. The version of you I see is so amazing, I'm proud/glad and all the other things just knowing you.
             </p>
 
             <p className="text-right font-serif text-ink">
