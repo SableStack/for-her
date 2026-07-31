@@ -28,64 +28,48 @@ export default function VersionOfYouPage() {
       >
         <div className="prose prose-ink max-w-none">
           <div className="font-serif text-ink-light space-y-6 leading-relaxed">
-            <p className="text-3xl font-serif text-ink">Dear You,</p>
+            <p className="text-3xl font-serif text-ink">Dear Weintombara,</p>
 
             <p>
-              I&apos;ve been thinking about how to describe the version of you that I see — 
-              not the one mirrors show, but the one I witness every day. It&apos;s hard to 
-              put into words because words feel too small for someone like you.
+              I've been thinking of the best way to show you how much you mean to me and I couldn't think of anything, not just cause I'm broke LOL, but because even if I gave you a planet, that's all it would be, me giving you a planet. If I could place you in my body and have you look at yourself through my eyes that would be Ideal, then you'd be able to feel and see you the way I do. But I can't do that, thought about writing a song but writing a good song is pretty difficult, so..... I'll just try explaining with words how I see you.
             </p>
 
             <p>
-              I see someone incredibly strong. Not the kind of strength that&apos;s loud or 
-            noticeable, but the quiet kind — the strength that gets through difficult 
-            days, that keeps going when things are hard, that still finds reasons to 
-            smile even when the world feels heavy.
+              Weintombara is a girl, she's a girl who has a smile that makes me want to melt, saying she has one of the cutest smiles sounds like an understatement, think of a kitten playing or a baby laughing, the feeling of joy you get when seeing that, a feeling of "the world isn't so bad", yeahhh her smile has the same effect. Her laugh is so precious as well, she has several, and each of them make me smile, even the fake one.
             </p>
 
             <p>
-              I see someone deeply kind. You care about things that matter, and more 
-              importantly, you care about people in a way that&apos;s becoming rare. You 
-              think of others before yourself. You notice when someone needs support. 
-              Your empathy is one of your superpowers, even if you don&apos;t see it that way.
+              She cares deeply about her friends and family, shes willing to go out of her way for them and has done so for me multiple times. Sometimes I just wish I could kidnap her. that's a feeling I get often when with her. shes just the kind of person you want to gate keep.
             </p>
 
             <p>
-              I see someone brilliant. You have ideas that amaze me, perspectives that 
-              challenge me, and a curiosity that keeps you growing. Never stop learning, 
-              never stop asking questions — it&apos;s one of the most attractive things 
-              about you.
+              She's not perfect, and she knows it, shes got battles she fights and she also cries. she's human. she has so much potential. She has secrets too, hidden dark sides and so on. shes a young human female with lots of potential and growth.
             </p>
 
             <p>
-              I see someone beautiful, inside and out. But more than that, I see someone 
-              who is becoming — evolving into the person you&apos;re meant to be. And I 
-              feel lucky to witness that transformation.
+              This is hard, I've said so much in my head, and rephrased so much already, so many feelings I can't convey. Thinking about the feeling you get from winning a lottery and try describing that feeling and giving it human traits. something hard like that. You wouldn't simply call it excitment or disbelief, there'd be so much more you want to do to express the emotion.
             </p>
 
             <p>
-              You have habits you don&apos;t realize are charming. The way you scrunch 
-              your nose when you&apos;re thinking. The way you get excited about things 
-              you love. The way you care so deeply it sometimes overwhelms you. 
-              These aren&apos;t flaws — they&apos;re the pieces of you that make you, you.
+              She's just so... good I don't know how to say the rest properly or in an arranged way so I'll just pour it all out. She's fun in a " I want her around as often as possible because its nice to be with her" way, almost like a breath of fresh air laced with the scent of pop corn, but in a subtle way that makes you crave pop corn, but doesn't overwhelm you.
             </p>
 
             <p>
-              The version of you I see is not perfect — and that&apos;s what makes 
-              it beautiful. It&apos;s real. It&apos;s human. It&apos;s someone who tries, 
-              who stumbles, who gets back up, who laughs, who cries, who dreams, 
-              who doubts, and who keeps going anyway.
+              Physically, I find her so attractive that I sometimes hope its just me, cause I don't want to justify harassment but.... I can definitely see why. She's so attractive, describing how attractive she is is like choosing between black and white, you just can't pick one or the other, she can look so cute and pretty in a sundress, looking intimidating in a suit and blow your mind with an outfit thats more revealing.
             </p>
 
             <p>
-              That version of you — the one I see — is more than enough. It always 
-              has been. And I hope one day you can see yourself the way I do.
+              Theres so much more I could say but I've been typing for a while now and I'm I think I've done what I can with words.
+            </p>
+
+            <p>
+              So.... that's a somewhat accurate description of 37% of my emotions and how I see you. the version of you I see is so amazing, I'm proud/Glad and all the other things just knowing you.
             </p>
 
             <p className="text-right font-serif text-ink">
-              With love, always
+              with Lots of love
               <br />
-              <span className="text-rose">[Your Name]</span>
+              <span className="text-rose">Oghenemine</span>
             </p>
           </div>
         </div>
