@@ -15,7 +15,7 @@ export default function VersionOfYouPage() {
       >
         <h1 className="text-4xl sm:text-5xl font-serif text-ink mb-4">The Version of You I See</h1>
         <p className="text-taupe text-lg max-w-xl mx-auto">
-          Not about memories, not about romance — just who you are, through my eyes.
+          How i see you
         </p>
       </motion.div>
 
