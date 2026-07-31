@@ -73,7 +73,7 @@ export default function Home() {
               transition={{ duration: 1, delay: 2 }}
               className="text-4xl"
             >
-              ✦
+              ♥
             </motion.div>
           </div>
 
