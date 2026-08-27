@@ -95,4 +95,9 @@ export const reasons: Reason[] = [
     title: "Reason #18",
     message: "She said the grape she's having tastes like me, made me smile, and also made me question everything again lol"
   },
+  {
+    id: 19,
+    title: "Reason #19",
+    message: "I want you to know that I love you so much, I'm not as bold as I'd like to be and there's so much to do, but I really really really do love you."
+  },
 ];
