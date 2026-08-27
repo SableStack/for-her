@@ -85,4 +85,14 @@ export const reasons: Reason[] = [
     title: "Reason #16",
     message: "Just got back from her place, saw cute pictures of her when she was younger and when I was about to leave she called me back, she wanted to dab me up, funny thing is I don't think she was joking either, she's so priceless, also got to hear her cute laugh, couldn't stop smiling."
   },
+  {
+    id: 17,
+    title: "Reason #17",
+    message: "She sent me pictures today, made me feel weak, so weak that I just had to put it here lol. The rock aesthetic really looked good but I didn't want to say anything cause I'm not trying to encourage her, I still prefer the sun dress. Sometimes I'm confused as to how I feel about anything then she does something and I'm suddenly so sure that I love her so much"
+  },
+  {
+    id: 18,
+    title: "Reason #18",
+    message: "She said the grape she's having tastes like me, made me smile, and also made me question everything again lol"
+  },
 ];
